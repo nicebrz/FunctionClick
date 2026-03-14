@@ -2,7 +2,7 @@
 
 Um jogo clicker focado em PCs, para um trabalho da escola :)
 
-**Feito por: Literalmente Eu.**
+**Feito por: Lucas (eu)**
 
 # Linguagens Utilizadas
 * HTML
